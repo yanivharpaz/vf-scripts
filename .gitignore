@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local stuff
+data/*
+secret/*
+examples/*
+nohup.out
+config.py
+
+
 # C extensions
 *.so
 

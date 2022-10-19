@@ -1,0 +1,11 @@
+wheel 
+pandas
+numpy
+tqdm
+cx_Oracle
+sqlalchemy
+ipykernel
+termcolor
+jmespath
+urllib3
+
